@@ -1,55 +1,17 @@
----
-title: 🚀 Ouverture officielle - Ascension MC
-date: 2026-06-14
-description: Bienvenue sur le serveur !
----
-
-![Bannière du serveur](https://ton-lien-image.com/banner.png)
-
-# 🚀 Bienvenue sur Ascension MC
-
-Bienvenue, aventurier.
-
-Tu viens de rejoindre un univers en constante évolution, où chaque joueur participe à construire l’histoire du serveur.
-
----
-
-# 📢 Nouveautés du serveur
-
-Voici ce qui est déjà en place :
-
-## 🧩 Mods installés
-- Mod 1 : description rapide
-- Mod 2 : description rapide
-- Mod 3 : description rapide
-
-## ⚙️ Système du serveur
-- Économie personnalisée
-- Zones protégées
-- Events réguliers
-- Système de progression
-
----
-
-# 🎮 Objectif du serveur
-
-Ascension MC n’est pas juste un serveur survival.
-
-C’est un monde où :
-- chaque construction compte
-- chaque joueur influence l’histoire
-- chaque événement change l’équilibre
-
----
-
-# 📌 Message du staff
-
-Merci de respecter les règles, de jouer fair-play, et surtout de profiter de l’aventure.
-
-Et si tu vois un admin… cours. C’est plus sûr.
-
----
-
-# ✨ Bonne aventure
-
-Amuse-toi bien, construis, explore, et laisse ta marque dans l’histoire du serveur.
+[
+  {
+    "title": "🚀 Ouverture officielle - Ascension MC",
+    "date": "2026-06-14",
+    "url": "https://ton-lien-image.com/opening.md"
+  },
+  {
+    "title": "🧩 Mods installés sur le serveur",
+    "date": "2026-06-14",
+    "url": "https://ton-lien-image.com/mods.md"
+  },
+  {
+    "title": "📢 Règles du serveur",
+    "date": "2026-06-14",
+    "url": "https://ton-lien-image.com/rules.md"
+  }
+]
